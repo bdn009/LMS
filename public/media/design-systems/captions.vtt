@@ -1,0 +1,56 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.793
+Build a token hierarchy.
+
+00:00:01.793 --> 00:00:05.828
+A token gives a visual decision a reusable name.
+
+00:00:05.828 --> 00:00:11.207
+Separate raw values from their purpose before binding them to a component.
+
+00:00:11.207 --> 00:00:14.345
+Indigo 600 stores a single color value.
+
+00:00:14.345 --> 00:00:17.931
+Action primary describes when the color is used.
+
+00:00:17.931 --> 00:00:20.621
+Button fill references the semantic token.
+
+00:00:21.167 --> 00:00:22.413
+Define component states.
+
+00:00:22.413 --> 00:00:27.397
+A button needs a consistent response to pointer, keyboard, and loading events.
+
+00:00:27.397 --> 00:00:31.550
+Begin with the action that a learner wants to take.
+
+00:00:31.550 --> 00:00:34.872
+Use the primary fill for an available action.
+
+00:00:34.872 --> 00:00:38.610
+Draw a visible ring when focus reaches the button.
+
+00:00:38.610 --> 00:00:41.518
+Keep the label width and announce progress.
+
+00:00:42.000 --> 00:00:43.734
+Release a system change.
+
+00:00:43.734 --> 00:00:48.936
+Test a shared component against real screens before releasing a new version.
+
+00:00:48.936 --> 00:00:52.838
+Capture what changed so other teams can adopt it.
+
+00:00:52.838 --> 00:00:56.740
+Place the old and new components side by side.
+
+00:00:56.740 --> 00:00:59.775
+Test the update with keyboard and touch.
+
+00:00:59.775 --> 00:01:02.376
+Record affected states and migration steps.
+

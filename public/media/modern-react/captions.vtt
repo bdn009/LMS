@@ -1,0 +1,56 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.631
+Trace a state update.
+
+00:00:01.631 --> 00:00:07.747
+When the learner selects a lesson, React renders the interface from the selected lesson ID.
+
+00:00:07.747 --> 00:00:10.601
+Keep a single owner for shared state.
+
+00:00:10.601 --> 00:00:13.455
+The sidebar sends the selected lesson ID.
+
+00:00:13.455 --> 00:00:16.309
+The player stores that ID with useState.
+
+00:00:16.309 --> 00:00:19.571
+The stage derives its content from the ID.
+
+00:00:20.083 --> 00:00:21.906
+Derive a filtered list.
+
+00:00:21.906 --> 00:00:28.284
+Use the course list and the active filter to calculate visible courses during render.
+
+00:00:28.284 --> 00:00:31.929
+A derived value stays aligned with its inputs.
+
+00:00:31.929 --> 00:00:34.662
+Keep the complete course list available.
+
+00:00:34.662 --> 00:00:37.396
+Store the selected category in state.
+
+00:00:37.396 --> 00:00:40.129
+Filter courses by the selected category.
+
+00:00:40.667 --> 00:00:42.304
+Use stable list keys.
+
+00:00:42.304 --> 00:00:50.084
+A stable key lets React match a row to the same course when a list is sorted or filtered.
+
+00:00:50.084 --> 00:00:52.950
+A permanent course ID provides that identity.
+
+00:00:52.950 --> 00:00:55.816
+Assign one persistent ID to each course.
+
+00:00:55.816 --> 00:00:58.272
+Sort courses without changing those IDs.
+
+00:00:58.272 --> 00:01:01.548
+React matches each row by its course ID.
+
