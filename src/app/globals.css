@@ -229,15 +229,10 @@ p {
 }
 .brand {
   gap: 9px;
-  font-size: 24px;
+  font-size: 29px;
   line-height: 1;
   font-weight: 730;
-  letter-spacing: -1px;
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.brand-secondary {
-  font-weight: 560;
+  letter-spacing: -1.8px;
 }
 .brand img {
   width: 33px;

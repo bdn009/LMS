@@ -1145,9 +1145,6 @@ textarea {
   }
 }
 @media (max-width: 800px) {
-  .nav-tools > .menu-anchor:has(.role-btn) {
-    display: none;
-  }
   .wrap {
     width: calc(100% - 36px);
   }
@@ -1155,7 +1152,7 @@ textarea {
     height: 62px;
   }
   .brand {
-    font-size: 22px;
+    font-size: 26px;
   }
   .brand img {
     width: 29px;
@@ -1309,7 +1306,7 @@ textarea {
     gap: 8px;
   }
   .brand {
-    font-size: 20px;
+    font-size: 25px;
   }
   .brand img {
     width: 28px;

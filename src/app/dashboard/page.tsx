@@ -30,7 +30,7 @@ function certificate(c: Course) {
     ctx.font = "600 " + size + "px Arial";
     ctx.fillText(text, 750, y, 1320);
   }
-  line("Nu Study Hub", 160, 34, "#5548dd");
+  line("Forma Learning Studio", 160, 34, "#5548dd");
   line("Certificate of Completion", 300, 70, "#14122e");
   line("Awarded to", 414, 28, "#5c6174");
   line("Alex Morgan", 500, 64, "#14122e");
