@@ -1145,6 +1145,9 @@ textarea {
   }
 }
 @media (max-width: 800px) {
+  .nav-tools > .menu-anchor:has(.role-btn) {
+    display: none;
+  }
   .wrap {
     width: calc(100% - 36px);
   }
