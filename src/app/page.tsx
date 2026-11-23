@@ -45,7 +45,7 @@ export default function Home() {
             <span className="pill-stack">
               <Layers3 size={13} />
             </span>{" "}
-            Multi-format learning studio
+            Your space to learn. Your next chapter.
           </div>
           <h1>
             Learn by doing.
@@ -53,7 +53,7 @@ export default function Home() {
             <em>Grow by design.</em>
           </h1>
           <p>
-            Build practical skills with expert-led video lessons,
+            Build practical skills with Nu Study Hub’s video lessons,
             <br className="desktop-break" /> hands-on workbooks, and visual
             guides.
           </p>

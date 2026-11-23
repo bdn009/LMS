@@ -5,9 +5,10 @@ import "./workspace.css";
 import { Provider } from "../store";
 import { Navigation, Footer } from "../ui";
 export const metadata: Metadata = {
-  title: "Forma — Your learning studio",
+  title: "Nu Study Hub — Your learning studio",
+  applicationName: "Nu Study Hub",
   description:
-    "Learn design, development, and AI with hands-on video lessons, visual guides, and workbooks.",
+    "Build practical skills with Nu Study Hub: hands-on video lessons, PDF workbooks, visual guides, and interactive quizzes in one learning space.",
 };
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (

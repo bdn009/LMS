@@ -26,9 +26,9 @@ import { useStore } from "./store";
 import { useFile } from "./files";
 export function Brand() {
   return (
-    <Link href="/" className="brand" aria-label="Forma home">
+    <Link href="/" className="brand" aria-label="Nu Study Hub home">
       <img src="/icon.svg" alt="" width="32" height="32" />
-      Forma
+      <span>Nu <span className="brand-secondary">Study Hub</span></span>
     </Link>
   );
 }
@@ -468,7 +468,7 @@ export function Footer() {
           </form>
         </div>
       </div>
-      <div className="wrap copyright">© 2026 Forma Learning Studio</div>
+      <div className="wrap copyright">© 2026 Nu Study Hub · Interactive learning demo</div>
     </footer>
   );
 }
