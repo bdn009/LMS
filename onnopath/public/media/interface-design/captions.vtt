@@ -1,0 +1,56 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.289
+Establish visual hierarchy.
+
+00:00:01.289 --> 00:00:04.296
+Decide what the reader should notice first.
+
+00:00:04.296 --> 00:00:09.450
+Use size, weight, and spacing to guide the eye through a screen.
+
+00:00:09.450 --> 00:00:12.887
+Name the user task in a clear heading.
+
+00:00:12.887 --> 00:00:15.464
+Group related details beneath the heading.
+
+00:00:15.464 --> 00:00:18.471
+Give the next action a distinct treatment.
+
+00:00:19.000 --> 00:00:20.383
+Organize a form.
+
+00:00:20.383 --> 00:00:25.915
+A good form lets the user understand, complete, and correct each field.
+
+00:00:25.915 --> 00:00:28.681
+Keep its label visible throughout editing.
+
+00:00:28.681 --> 00:00:31.907
+Name the requested value above its input.
+
+00:00:31.907 --> 00:00:35.134
+Place a short example beside the field.
+
+00:00:35.134 --> 00:00:38.361
+Explain how to repair an invalid value.
+
+00:00:38.917 --> 00:00:41.010
+Plan a responsive layout.
+
+00:00:41.010 --> 00:00:44.675
+Choose a reading order before arranging columns.
+
+00:00:44.675 --> 00:00:49.909
+As space shrinks, preserve the relationship between context and action.
+
+00:00:49.909 --> 00:00:52.526
+Show reading content beside navigation.
+
+00:00:52.526 --> 00:00:55.667
+Move navigation behind a labelled control.
+
+00:00:55.667 --> 00:00:58.808
+Test reading order and keyboard focus.
+

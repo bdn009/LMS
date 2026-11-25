@@ -1,0 +1,56 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.235
+Ground an answer in evidence.
+
+00:00:02.235 --> 00:00:05.364
+Retrieval gives a model relevant source passages.
+
+00:00:05.364 --> 00:00:11.623
+Keep each passage linked to its document so the answer can cite its evidence.
+
+00:00:11.623 --> 00:00:14.305
+Find passages related to the question.
+
+00:00:14.305 --> 00:00:16.987
+Include those passages with the request.
+
+00:00:16.987 --> 00:00:20.116
+Check each answer against its cited passage.
+
+00:00:20.667 --> 00:00:22.075
+Choose retrieval chunks.
+
+00:00:22.075 --> 00:00:26.299
+A useful chunk contains enough context to stand alone.
+
+00:00:26.299 --> 00:00:31.461
+Preserve headings and document identifiers as you divide a long source.
+
+00:00:31.461 --> 00:00:34.277
+Split around headings and topic changes.
+
+00:00:34.277 --> 00:00:37.562
+Carry the section title with each passage.
+
+00:00:37.562 --> 00:00:40.848
+Store the source ID and page number.
+
+00:00:41.333 --> 00:00:43.264
+Evaluate a retrieval result.
+
+00:00:43.264 --> 00:00:48.090
+Use a small set of questions with known supporting sources.
+
+00:00:48.090 --> 00:00:52.917
+Check what the retriever returns before changing the model prompt.
+
+00:00:52.917 --> 00:00:56.295
+Record one supporting source for each question.
+
+00:00:56.295 --> 00:00:58.226
+Inspect the highest-ranked passages.
+
+00:00:58.226 --> 00:01:01.604
+Count questions with a relevant top result.
+
